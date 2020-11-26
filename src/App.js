@@ -1,5 +1,4 @@
 import React from 'react';
-import TinderCard from 'react-tinder-card';
 import './App.css';
 import Header from "./Header";
 import TinderCards from './TinderCards';
